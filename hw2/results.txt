@@ -1,0 +1,273 @@
+Image Comparison Results
+=======================
+
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123907.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123813.jpg:
+LPIPS: tensor([[[[1.1911e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1395.3992297815394
+SSIM: 1.7055487619851988
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123907.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123904.jpg:
+LPIPS: tensor([[[[1.1155e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1774.2810609266494
+SSIM: 1.795223653062635
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123907.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123816.jpg:
+LPIPS: tensor([[[[6.7495e-06]]]], grad_fn=<AddBackward0>)
+MSE: 1661.8121480758102
+SSIM: 1.8697769187742779
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123907.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123806~2.jpg:
+LPIPS: tensor([[[[1.0493e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1717.0296831597223
+SSIM: 1.705625630238103
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123907.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123837.jpg:
+LPIPS: tensor([[[[1.5816e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1839.3553072554978
+SSIM: 1.958582225418013
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123907.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123949.jpg:
+LPIPS: tensor([[[[1.1889e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1511.0611138237848
+SSIM: 1.7716842121446916
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123907.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123800.jpg:
+LPIPS: tensor([[[[1.0046e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1577.4735953776042
+SSIM: 1.8228423249225898
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123907.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123844.jpg:
+LPIPS: tensor([[[[1.7089e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1776.495408166956
+SSIM: 1.5972038160106194
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123907.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123825.jpg:
+LPIPS: tensor([[[[1.0424e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1517.0985887767652
+SSIM: 1.6172458488413213
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123813.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123904.jpg:
+LPIPS: tensor([[[[5.2012e-06]]]], grad_fn=<AddBackward0>)
+MSE: 1365.6963021737558
+SSIM: 1.4844322663766434
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123813.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123816.jpg:
+LPIPS: tensor([[[[8.6300e-06]]]], grad_fn=<AddBackward0>)
+MSE: 1470.8344444444444
+SSIM: 1.5410157864317284
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123813.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123806~2.jpg:
+LPIPS: tensor([[[[1.7222e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1698.9860490813078
+SSIM: 1.4509879098450824
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123813.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123837.jpg:
+LPIPS: tensor([[[[1.1977e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1435.1386899594906
+SSIM: 1.6023755234431292
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123813.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123949.jpg:
+LPIPS: tensor([[[[1.8672e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1450.807923900463
+SSIM: 1.4672278543350785
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123813.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123800.jpg:
+LPIPS: tensor([[[[1.2124e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1365.9072516999422
+SSIM: 1.4718808821654648
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123813.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123844.jpg:
+LPIPS: tensor([[[[1.3516e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1413.7027325665508
+SSIM: 1.2849688545769595
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123813.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123825.jpg:
+LPIPS: tensor([[[[2.3379e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1571.9082768192998
+SSIM: 1.349325799795622
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123904.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123816.jpg:
+LPIPS: tensor([[[[1.0397e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1991.9134276439524
+SSIM: 1.6272698779148413
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123904.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123806~2.jpg:
+LPIPS: tensor([[[[1.2349e-05]]]], grad_fn=<AddBackward0>)
+MSE: 2132.6687696216723
+SSIM: 1.4308242075322823
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123904.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123837.jpg:
+LPIPS: tensor([[[[6.3546e-06]]]], grad_fn=<AddBackward0>)
+MSE: 1975.2866647677952
+SSIM: 1.6536539571491176
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123904.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123949.jpg:
+LPIPS: tensor([[[[1.1204e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1565.9709037724247
+SSIM: 2.1320915767813062
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123904.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123800.jpg:
+LPIPS: tensor([[[[6.0222e-06]]]], grad_fn=<AddBackward0>)
+MSE: 1817.6357384801795
+SSIM: 1.5454298197990965
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123904.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123844.jpg:
+LPIPS: tensor([[[[6.8913e-06]]]], grad_fn=<AddBackward0>)
+MSE: 1412.8131777162905
+SSIM: 1.948556747192697
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123904.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123825.jpg:
+LPIPS: tensor([[[[1.5524e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1582.2704074435765
+SSIM: 1.901210383812895
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123816.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123806~2.jpg:
+LPIPS: tensor([[[[1.6470e-05]]]], grad_fn=<AddBackward0>)
+MSE: 2054.1699063223377
+SSIM: 1.9155927590314263
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123816.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123837.jpg:
+LPIPS: tensor([[[[1.7140e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1877.8969153284143
+SSIM: 1.787540118677157
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123816.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123949.jpg:
+LPIPS: tensor([[[[1.6612e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1790.3375202546297
+SSIM: 1.638819759915691
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123816.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123800.jpg:
+LPIPS: tensor([[[[1.3979e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1804.4995712167245
+SSIM: 1.8970126953704494
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123816.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123844.jpg:
+LPIPS: tensor([[[[1.8232e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1801.4073227719907
+SSIM: 1.4164465501851282
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123816.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123825.jpg:
+LPIPS: tensor([[[[1.5874e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1739.7105230938946
+SSIM: 1.6163144555321196
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123806~2.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123837.jpg:
+LPIPS: tensor([[[[1.0796e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1833.1138548900462
+SSIM: 1.7730011690860579
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123806~2.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123949.jpg:
+LPIPS: tensor([[[[9.0361e-06]]]], grad_fn=<AddBackward0>)
+MSE: 1663.8193234592013
+SSIM: 1.4456637077391292
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123806~2.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123800.jpg:
+LPIPS: tensor([[[[5.3632e-06]]]], grad_fn=<AddBackward0>)
+MSE: 1433.0702953197338
+SSIM: 1.9547205916369421
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123806~2.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123844.jpg:
+LPIPS: tensor([[[[1.2622e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1987.6486467375578
+SSIM: 1.2303413273691035
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123806~2.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123825.jpg:
+LPIPS: tensor([[[[1.0932e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1680.9047503436054
+SSIM: 1.4518457278481378
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123837.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123949.jpg:
+LPIPS: tensor([[[[7.2954e-06]]]], grad_fn=<AddBackward0>)
+MSE: 1801.2732101779513
+SSIM: 1.6379467074020226
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123837.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123800.jpg:
+LPIPS: tensor([[[[4.2046e-06]]]], grad_fn=<AddBackward0>)
+MSE: 1464.6075506365742
+SSIM: 1.8778474745247422
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123837.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123844.jpg:
+LPIPS: tensor([[[[2.2591e-06]]]], grad_fn=<AddBackward0>)
+MSE: 1742.4714384403935
+SSIM: 1.4831494902346094
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123837.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123825.jpg:
+LPIPS: tensor([[[[1.2827e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1831.2247349717882
+SSIM: 1.4792422412731412
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123949.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123800.jpg:
+LPIPS: tensor([[[[4.3835e-06]]]], grad_fn=<AddBackward0>)
+MSE: 1566.785314489294
+SSIM: 1.5712165340087836
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123949.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123844.jpg:
+LPIPS: tensor([[[[6.9816e-06]]]], grad_fn=<AddBackward0>)
+MSE: 1415.4506083622684
+SSIM: 2.002400522269056
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123949.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123825.jpg:
+LPIPS: tensor([[[[3.6186e-06]]]], grad_fn=<AddBackward0>)
+MSE: 1270.5932746491608
+SSIM: 1.9533408308583375
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123800.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123844.jpg:
+LPIPS: tensor([[[[5.6253e-06]]]], grad_fn=<AddBackward0>)
+MSE: 1733.7765462239583
+SSIM: 1.3578818676105584
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123800.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123825.jpg:
+LPIPS: tensor([[[[8.1055e-06]]]], grad_fn=<AddBackward0>)
+MSE: 1658.1445078305844
+SSIM: 1.5217227231610195
+---------------------------
+
+Metrics between /home/xie/OpenCamera/hw2/IMG_20230916_123844.jpg and /home/xie/OpenCamera/hw2/IMG_20230916_123825.jpg:
+LPIPS: tensor([[[[1.1162e-05]]]], grad_fn=<AddBackward0>)
+MSE: 1375.6475715241609
+SSIM: 1.7673954370498564
+---------------------------
